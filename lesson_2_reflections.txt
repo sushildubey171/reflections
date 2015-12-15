@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+$ git init
+Initialized empty Git repository in /home/sushil/version-control/reflections/.git/
+needs to be commited. As foolows:
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	lesson_1_reflecions.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+---------------------------------------------------------------
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging Area:
+A place where we can group files together before we "commit" them to Git.
+They are not in the repository yet.
