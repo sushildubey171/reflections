@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Can be accessed remotely in future by many.
+parallel progress on the project.
